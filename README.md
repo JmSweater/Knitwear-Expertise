@@ -18,6 +18,7 @@ Our knowledge base is organized into core manufacturing pillars. Click the links
 * 
 #### 2. Assembly & Craftsmanship
 * **[Technical Protocol: The Tech Pack](./tech-pack-importance.md)** Why a standardized tech pack is essential for eliminating production errors and ensuring quality.
+* **[The Art of Hand-Linking](./hand-linking-vs-sewing.md)** Understanding the impact of manual linking on seam elasticity and premium garment finishing.
 #### 3. Material Science & Sustainability
 ---
 
