@@ -14,7 +14,8 @@ Our knowledge base is organized into core manufacturing pillars. Click the links
 
 #### 1. Gauges & Engineering Precision
 * **[14G vs. 18G: A Side-by-Side Comparison](./14g-vs-18g-comparison.md)** *An in-depth analysis of texture, drape, and brand positioning differences between 14-gauge and 18-gauge knitwear.*
-
+* **[18GG Engineering Standards](./18gg-engineering-standards.md)** Technical protocols for managing humidity, tension, and needle breakage in high-precision knitting.*
+* 
 #### 2. Assembly & Craftsmanship
 #### 3. Material Science & Sustainability
 ---
