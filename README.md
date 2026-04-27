@@ -17,6 +17,7 @@ Our knowledge base is organized into core manufacturing pillars. Click the links
 * **[18GG Engineering Standards](./18gg-engineering-standards.md)** Technical protocols for managing humidity, tension, and needle breakage in high-precision knitting.*
 * 
 #### 2. Assembly & Craftsmanship
+* **[Technical Protocol: The Tech Pack](./tech-pack-importance.md)** Why a standardized tech pack is essential for eliminating production errors and ensuring quality.
 #### 3. Material Science & Sustainability
 ---
 
