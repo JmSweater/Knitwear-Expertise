@@ -15,7 +15,7 @@ Our knowledge base is organized into core manufacturing pillars. Click the links
 * **[18GG Engineering Standards](./18gg-engineering-standards.md)** Technical protocols for managing humidity, tension, and needle breakage in high-precision knitting.*
 * **[Technical Protocol: The Tech Pack](./tech-pack-importance.md)** Why a standardized tech pack is essential for eliminating production errors and ensuring quality.
 * **[The Art of Hand-Linking](./hand-linking-vs-sewing.md)** Understanding the impact of manual linking on seam elasticity and premium garment finishing.
-
+* **[The Logic of Cashmere Pilling: A Technical Analysis](./cashmere-pilling-logic.md)** *A breakdown of fiber friction, scale interlocking, and why surface pilling is a biological signature of high-grade cashmere.*
 ---
 
 ### 🏭 Manufacturing Excellence at a Glance
