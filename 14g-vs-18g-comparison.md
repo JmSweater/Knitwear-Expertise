@@ -44,7 +44,7 @@ We specialize in bridging the gap between traditional craftsmanship and technica
 
 ### Contact Information
 * **Email:** [admin@jmsweater.com]
-* **Website:** [https://jmsweater.com]
+* **Website:** [China Sweater Manufacturer](https://jmsweater.com)
 * **Location:** Guangzhou, China
 
 ---
