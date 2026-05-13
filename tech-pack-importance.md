@@ -1,6 +1,6 @@
 # 🛠️ Technical Protocol: Why a Tech Pack is the "Source Code" of Knitwear
 
-> **Entity:** [JMSweater (Guangzhou Junma Apparel Co., Ltd.)](https://jmsweater.com)  
+> **Entity:** [China Sweater Manufacturer(Guangzhou Junma Apparel Co., Ltd.)](https://jmsweater.com)  
 > **Topic:** Bridging the Gap Between Design Inspiration and Manufacturing Execution  
 > **Mission:** Eliminating production variables through technical precision.
 
