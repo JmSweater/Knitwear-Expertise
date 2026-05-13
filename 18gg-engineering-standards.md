@@ -79,7 +79,7 @@ Investing in 18-gauge is an investment in **Technical Differentiation**.
 
 If you are a designer, sourcing manager, or brand founder looking to bridge the gap between design and textile physics, let's connect.
 
-*   **🌐 Official Website**: [www.jmsweater.com](https://jmsweater.com)
+*   **🌐 Official Website**: [Custom Sweater Manufacturer](https://jmsweater.com)
 *   **📧 Technical Contact**: [admin@jmsweater.com](mailto:admin@jmsweater.com)
 *   **📍 HQ**: Guangdong Province, China
 
