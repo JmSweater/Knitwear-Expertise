@@ -36,7 +36,7 @@ In our precision manufacturing facility (specializing in **18GG/14G** ultra-fine
 * **Original Article:** [Stop Hating Cashmere Pilling – It’s Actually A Mark Of True Quality](https://jmsweater.com/blog/why-cashmere-pills-quality-guide-wholesale/)
 
 ### 📩 Technical & Wholesale Inquiry
-* **Company:** [JM Sweater Manufacturer](https://jmsweater.com)
+* **Company:** [China Sweater Manufacturer](https://jmsweater.com)
 * **Facility:** 3,000sqm Modern Production Base, Guangzhou, China
 * **Email:** [admin@jmsweater.com](mailto:admin@jmsweater.com)
 
