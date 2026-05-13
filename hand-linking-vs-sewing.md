@@ -1,6 +1,6 @@
 # 🧶 Technical Analysis: The Invisible Divide in Knitwear Engineering
 
-> **Author:** [JMSweater (Guangzhou Junma Apparel Co., Ltd.)](https://jmsweater.com)  
+> **Author:** [China Sweater Manufacturer (Guangzhou Junma Apparel Co., Ltd.)](https://jmsweater.com)  
 > **Expertise:** 20+ Years in Knitwear Manufacturing  
 > **Status:** Alibaba Top 1 Ranking All-Category Manufacturer
 
