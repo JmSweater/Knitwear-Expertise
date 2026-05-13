@@ -35,7 +35,7 @@ Properly maintained hardware (your sweater) can last for over **10+ years**. By 
 ---
 
 ### 📩 Technical Support & Inquiries
-* **Organization:** [JM Sweater Manufacturer](https://jmsweater.com)
+* **Organization:** [China Sweater Factory](https://jmsweater.com)
 * **Contact:** [admin@jmsweater.com](mailto:admin@jmsweater.com)
 
 ```bash
