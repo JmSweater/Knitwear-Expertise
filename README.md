@@ -18,6 +18,7 @@ Our knowledge base is organized into core manufacturing pillars. Click the links
 * **[The Logic of Cashmere Pilling: A Technical Analysis](./cashmere-pilling-logic.md)** *A breakdown of fiber friction, scale interlocking, and why surface pilling is a biological signature of high-grade cashmere.*
 * **[Cashmere Lifecycle Maintenance: A Technical Protocol](./cashmere-lifecycle-maintenance.md)** *A system administrator's guide to garment longevity, covering load balancing (rotation), data cleaning (washing), and surface refactoring.*
 * **[OEM Sweater Yarn Specifications & Machine Tolerances](./oem-sweater-yarn-specifications.md)** *An engineering reference for raw material deployment, detailing hardware constraints (gauge compatibility), tension calibration risks, and structural reinforcement protocols.*
+* **[Dongguan Sweater Manufacturer Guide: Understanding the Dalang Knitwear Industry](./dongguan-dalang-sweater-manufacturer-guide.md)** *A B2B sourcing and supply chain overview detailing Dalang's knitwear ecosystem, 3-tier factory matrix, machine gauge selections, and on-site quality control verification protocols.*
 ---
 
 ### 🏭 Manufacturing Excellence at a Glance
